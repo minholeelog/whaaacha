@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/whaaacha/static/css/main.5bbe7ab3.chunk.css",
+    "main.js": "/whaaacha/static/js/main.97b8c04f.chunk.js",
+    "main.js.map": "/whaaacha/static/js/main.97b8c04f.chunk.js.map",
+    "runtime-main.js": "/whaaacha/static/js/runtime-main.79682147.js",
+    "runtime-main.js.map": "/whaaacha/static/js/runtime-main.79682147.js.map",
+    "static/js/2.a4c67e55.chunk.js": "/whaaacha/static/js/2.a4c67e55.chunk.js",
+    "static/js/2.a4c67e55.chunk.js.map": "/whaaacha/static/js/2.a4c67e55.chunk.js.map",
+    "index.html": "/whaaacha/index.html",
+    "static/css/main.5bbe7ab3.chunk.css.map": "/whaaacha/static/css/main.5bbe7ab3.chunk.css.map",
+    "static/js/2.a4c67e55.chunk.js.LICENSE.txt": "/whaaacha/static/js/2.a4c67e55.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79682147.js",
+    "static/js/2.a4c67e55.chunk.js",
+    "static/css/main.5bbe7ab3.chunk.css",
+    "static/js/main.97b8c04f.chunk.js"
+  ]
+}
